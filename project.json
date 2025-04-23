@@ -1,9 +1,11 @@
 {
-  "name": "webbrowser",
-  "projectId": "5da341b8-5d9d-49af-82a2-52588bf6e1a4",
+  "name": "webscraping",
+  "projectId": "07178a02-683f-4cb4-b60a-e3f0d0b17a48",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.GSuite.Activities": "[3.1.1-preview]",
     "UiPath.System.Activities": "[25.2.1]",
     "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
@@ -47,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c6967f38-7109-4709-96fa-96c3194ee904",
+      "uniqueId": "bf62ab4e-18ba-4a0f-be31-4ba2f6d43c31",
       "input": [],
       "output": []
     }
